@@ -5,7 +5,7 @@
     Description: HTML5 Bootstrap Template
     Author: Petia Koleva
     Author URI:  http://designify.me
-    Version: 1.0
+    Version: 2.0
 
 -----------------------------------------------------------------------------------
 
@@ -358,22 +358,22 @@ header#medium .header-text {
 /* ---------------------------
 3.3. Header Images
 -----------------------------*/
-.lacapelette-intro {
+.indiancusine-intro {
 	background-image: url(http://placehold.it/1920x1080);
 }
-.lacapelette-blog {
+.indiancusine-blog {
 	background-image: url(http://placehold.it/1920x1080);
 }
-.lacapelette-events {
+.indiancusine-events {
 	background-image: url(http://placehold.it/1920x1080);
 }
-.lacapelette-menu {
+.indiancusine-menu {
 	background-image: url(http://placehold.it/1920x1080);
 }
-.lacapelette-recipe {
+.indiancusine-recipe {
 	background-image: url(http://placehold.it/1920x1080);
 }
-.lacapelette-wine {
+.indiancusine-wine {
 	background-image: url(http://placehold.it/1920x1080);
 }
 
