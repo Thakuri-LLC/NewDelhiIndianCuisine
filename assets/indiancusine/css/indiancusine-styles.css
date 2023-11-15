@@ -359,7 +359,7 @@ header#medium .header-text {
 3.3. Header Images
 -----------------------------*/
 .indiancusine-intro {
-	background-image: url('assets/img/bg-03.png');
+	background-image: url('../../../assets/img/bg-03.png');
 }
 .indiancusine-blog {
 	background-image: url(http://placehold.it/1920x1080);
@@ -403,7 +403,7 @@ section {
 section#about {padding:0}
 section#about {
 	text-align: center;
-	background: url('assets/img/bg-03.png');
+	background: url('../../../assets/img/bg-03.png');
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
