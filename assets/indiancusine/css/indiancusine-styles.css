@@ -1607,6 +1607,17 @@ section#wine-sect-01 span, section#wine-sect-02 span, section#wine-sect-03 span 
 	position: relative;
 	top: -4px;
 }
+.label-vegan {
+	text-transform: uppercase;
+	color: #0a0909;
+	background: #49e831c0;
+	letter-spacing: 1px;
+	font-size: 9px;
+	border-radius: 0;
+	padding: .4em .6em .4em;
+	position: relative;
+	top: -4px;
+}
 
 /* ---------------------------
 22.2  Buttons
