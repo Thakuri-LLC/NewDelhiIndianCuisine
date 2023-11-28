@@ -175,6 +175,7 @@ hr {
 }
 #main-nav .navbar-brand > img {
 	width: 85%;
+	margin: -45px 0 0 10px;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: transparent;
