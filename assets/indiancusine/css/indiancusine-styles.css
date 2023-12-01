@@ -152,7 +152,7 @@ hr {
 	font-weight: 500;
 }
 #main-nav .nav > li > a {
-	padding: 25px 5px;
+	padding: 25px 0;
 	text-transform: uppercase;
 	color: #FFF;
 	letter-spacing: 1px;
