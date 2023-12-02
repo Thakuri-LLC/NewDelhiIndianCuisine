@@ -440,21 +440,22 @@ section#bakery-cta {
 	padding: 150px 0
 }
 section#bakery-cta {
-	background: url(http://placehold.it/1920x1080);
+	background: url("/assets/img/bg-04.png");
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	filter: brightness(60%);
 }
 section#bakery-cta h2 {
 	font-size: 60px;
-	color: #FFFFFF
+	color: #fdfdfd
 }
 section#bakery-cta p {
 	font-size: 52px;
-	color: #FFFFFF
+	color: #ffffff
 }
 
 @media (max-width: 767px) {
