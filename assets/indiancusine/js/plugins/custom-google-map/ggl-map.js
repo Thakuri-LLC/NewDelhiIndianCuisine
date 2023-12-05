@@ -8,8 +8,8 @@ jQuery(document).ready(function ($) {
   var is_internetExplorer11 =
     navigator.userAgent.toLowerCase().indexOf("trident") > -1;
   var $marker_url = is_internetExplorer11
-    ? 'assets/logo-sm.svg"'
-    : "assets/logo-sm.svg";
+    ? 'assets/map-marker.png"'
+    : "assets/map-marker.png";
 
   //define the basic color of your map, plus a value for saturation and brightness
   var $main_color = "#000000",
