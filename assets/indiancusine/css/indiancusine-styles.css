@@ -375,7 +375,7 @@ header#medium .header-text {
 	background-image: url(http://placehold.it/1920x1080);
 }
 .indiancusine-wine {
-	background-image: url(http://placehold.it/1920x1080);
+	background-image: url('../../../assets/img/wine-bg.png');
 }
 
 /* ---------------------------
@@ -451,7 +451,7 @@ section#bakery-cta {
 }
 section#bakery-cta h2 {
 	font-size: 60px;
-	color: #fdfdfd
+	color: #ffffff
 }
 section#bakery-cta p {
 	font-size: 52px;
@@ -1575,13 +1575,13 @@ section#wine-sect-01 span, section#wine-sect-02 span, section#wine-sect-03 span 
 	color: #dea72d
 }
 .wine-section-01 {
-	background: url(http://placehold.it/1920x1080)
+	background: url("/assets/img/bg-05.png")
 }
 .wine-section-02 {
-	background: url(http://placehold.it/1920x1080)
+	background: url("/assets/img/bg-06.png")
 }
 .wine-section-03 {
-	background: url(http://placehold.it/1920x1080)
+	background: url("/assets/img/bg-07.png")
 }
 
 /* ---------------------------
