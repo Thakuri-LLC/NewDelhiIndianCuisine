@@ -377,7 +377,9 @@ header#medium .header-text {
 .indiancusine-wine {
 	background-image: url('../../../assets/img/wine-bg.png');
 }
-
+.indiancusine-order {
+	background-image: url('../../../assets/img/bg-08.png');
+}
 /* ---------------------------
 4. Global Styles for Sections
 -----------------------------*/
@@ -404,7 +406,7 @@ section {
 section#about {padding:0}
 section#about {
 	text-align: center;
-	background: url('../../../assets/img/bg-03.png');
+	background: url('../../../assets/img/bg-02.png');
 	background-position: center bottom;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
