@@ -1587,6 +1587,40 @@ section#wine-sect-01 span, section#wine-sect-02 span, section#wine-sect-03 span 
 }
 
 /* ---------------------------
+21. Thali Page /Thali Sections/
+-----------------------------*/
+section#thali-sect-01, section#thali-sect-02, section#thali-sect-03 {
+}
+section#thali-sect-01, section#thali-sect-02, section#thali-sect-03 {
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	text-align: center;
+}
+section#thali-sect-01 .thali-item-box, section#thali-sect-02 .thali-item-box, section#thali-sect-03 .thali-item-box {
+	background: rgba(10,9,9,0.95);
+	color: #FFF
+}
+section#thali-sect-01 .thali-inner-box, section#thali-sect-02 .thali-inner-box, section#thali-sect-03 .thali-inner-box {
+	padding: 50px;
+}
+section#thali-sect-01 h2, section#thali-sect-02 h2, section#thali-sect-03 h2 {
+	color: #FFF
+}
+section#thali-sect-01 span, section#thali-sect-02 span, section#thali-sect-03 span {
+	color: #ee6323
+}
+.thali-section-01 {
+	background: url("/assets/img/veg-thali.png")
+}
+.thali-section-02 {
+	background: url("/assets/img/chicken-thali.png")
+}
+
+/* ---------------------------
 22.1. Labels
 -----------------------------*/
 .label-special {
