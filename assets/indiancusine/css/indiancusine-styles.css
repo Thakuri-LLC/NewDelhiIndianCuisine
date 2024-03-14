@@ -378,7 +378,7 @@ header#medium .header-text {
 	background-image: url('../../../assets/img/wine-bg.png');
 }
 .indiancusine-order {
-	background-image: url('../../../assets/img/bg-08.png');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../../../assets/img/bg-08.png');
 }
 /* ---------------------------
 4. Global Styles for Sections
